@@ -1,0 +1,26 @@
+body{
+    color: white;
+    background:black ;
+    margin: 0px;
+    font-family: "Comic Neue", cursive;
+}
+header {
+    border-bottom: solid 2px rgba(253, 0, 0, 0.993);
+    padding: 20px;
+    font-size: 32px;
+    color:rgba(253, 0, 0, 0.993);
+}
+section{background: rgb(0, 0, 0);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;}
+
+.Top1 {margin-right: 5%;}
+
+h1 {font-size: 40px}
+
+p{font-size: 20px;}
+
+img {height: 300px;
+}
